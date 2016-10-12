@@ -1,0 +1,5 @@
+1. Dateien bearbeiten
+2. Änderungen vormerken
+3. Committen (vorgemerkte Änderungen in einem "Paket" zusammenfassen)
+4. Pullen (Commits der anderen vom Server ziehen), Konflikte auflösen
+5. Pushen (Commit auf den Server schieben)
